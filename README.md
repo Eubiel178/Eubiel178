@@ -6,7 +6,6 @@ Desenvolvedor Front End.
 
 Meu foco atualmente esta voltado para o Fullstack
 
-<img src="/img/octacat.png" width="200" min-width="400px" max-width="400px" width="400px" align="right"/> 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eubiel178&show_icons=true&theme=tokyonight"/>
