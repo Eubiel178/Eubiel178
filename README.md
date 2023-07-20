@@ -15,7 +15,7 @@ Meu foco atualmente esta voltado para o Fullstack
 ### ❤️ Vamos nos conectar:
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgabrielsilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev123gabriel@gmail.com?subject=&body=Ola%20Gabriel%20tudo%20bem%3F%20Sou%20da...)
+<a href = "mailto:dev123gabriel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tech_gabriel/)
 
 ### 🛠️ Tecnologias e Ferramentas que utilizo:
