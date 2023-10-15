@@ -1,4 +1,4 @@
-<img src="./src/assets/mario--banner.gif"/>
+<img src="./assets/mario--banner.gif"/>
 
 ## Gabriel Santos
 
