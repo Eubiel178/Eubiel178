@@ -1,35 +1,39 @@
 <img src="./assets/mario--banner.gif"/>
 
-## Gabriel Santos
+## Bem-vindo ao Meu Portfólio 👋
 
-Desenvolvedor Front End.
+Olá, sou <strong>Gabriel Santos</strong>, um apaixonado por tecnologia atualmente focado em me torna um desenvolvedor FullStack. Este é o repositório um dos meus portfólios, onde compartilho projetos que desenvolvi e como entrar em contato comigo.
 
-Meu foco atualmente esta voltado para o Fullstack
+### Habilidades
 
+Atualmente, minhas habilidades incluem:
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eubiel178&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eubiel178&layout=compact&theme=tokyonight"/>
+<div style="display:flex; flex-wrap:wrap; gap: 5px">
+  <img width="55" src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img width="55" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img width="55" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img width="55" src="./assets/react.svg"/>
 </div>
+<!-- ### Projetos -->
 
-<br/>
-<br/>
+### Contato
 
-### ❤️ Vamos nos conectar:
+Sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgabrielsilva/)
-<a href = "mailto:dev123gabriel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tech_gabriel/)
+<div style="display:flex; flex-wrap:wrap; gap: 5px">
+  <a href="mailto:dev123gabriel@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> 
+  </a>
 
-<br/>
-<br/>
+  <a href="https://www.linkedin.com/in/devgabrielsilva" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
 
-### 🛠️ Tecnologias e Ferramentas que utilizo:
+  <a href="https://wa.me/5575991096704?text=Ola%20Gabriel,%20tudo%20bem?" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/>
+  </a>
 
-<div>
-<img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <a href="https://www.instagram.com/tech_gabriel/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
 </div>
