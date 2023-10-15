@@ -1,6 +1,6 @@
-## 👦🏽  Olá!!
+<img src="./src/assets/mario--banner.gif"/>
 
-Eu sou Gabriel Santos
+## Gabriel Santos
 
 Desenvolvedor Front End.
 
