@@ -45,13 +45,13 @@ Sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
 
   <li >
     <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/gerencie-se" target="_blank" >
-      <img src="https://img.icons8.com/fluent/48/000000/github.png"/>Gerencie - se
+     Gerencie - se
     </a>
   </li>
 
   <li >
     <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/portfolio-tech-gabriel" target="_blank" >
-      <img src="https://img.icons8.com/fluent/48/000000/github.png"/>Portfolio
+     Portfolio
     </a>
   </li>
 </ul>
