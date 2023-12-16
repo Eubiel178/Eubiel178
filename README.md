@@ -42,16 +42,15 @@ Sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
 ### Projetos
 
 <ul style="display:flex; flex-direction:column; gap: 5px; list-style:none; padding:0; " >
-
+  <li >
+    <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/tech-gabriel-next" target="_blank" >
+     Portfolio
+    </a>
+  </li>
+  
   <li >
     <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/gerencie-se" target="_blank" >
      Gerencie - se
-    </a>
-  </li>
-
-  <li >
-    <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/portfolio-tech-gabriel" target="_blank" >
-     Portfolio
     </a>
   </li>
 </ul>
