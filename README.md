@@ -15,9 +15,11 @@ Atualmente, minhas habilidades incluem:
 <div style="display:flex; flex-wrap:wrap; gap: 5px">
   <img width="55" src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img width="55" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img width="55" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
   <img width="55" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
   <img width="55" src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img width="55" src="./assets/react.svg"/>
+  <img width="55" src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 </div>
 <!-- ### Projetos -->
 
