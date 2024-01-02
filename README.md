@@ -51,7 +51,7 @@ Sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
   </li>
   
   <li >
-    <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/gerencie-se" target="_blank" >
+    <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/Gerencie-se-v2" target="_blank" >
      Gerencie - se
     </a>
   </li>
