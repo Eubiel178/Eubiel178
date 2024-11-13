@@ -45,7 +45,7 @@ Sinta-se à vontade para entrar em contato comigo pelos seguintes meios:
 
 <ul style="display:flex; flex-direction:column; gap: 5px; list-style:none; padding:0; " >
   <li >
-    <a style="display:flex; align-items:center; gap: 5px"  href="https://github.com/Eubiel178/tech-gabriel-next" target="_blank" >
+    <a style="display:flex; align-items:center; gap: 5px"  href="https://tech-gabriel-2024.vercel.app/" target="_blank" >
      Portfolio
     </a>
   </li>
